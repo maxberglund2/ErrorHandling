@@ -1,0 +1,14 @@
+C:\Users\Max\Documents\Chas Academy\ErrorHandling\ErrorHandling\bin\Debug\net8.0\ErrorHandling.exe
+C:\Users\Max\Documents\Chas Academy\ErrorHandling\ErrorHandling\bin\Debug\net8.0\ErrorHandling.deps.json
+C:\Users\Max\Documents\Chas Academy\ErrorHandling\ErrorHandling\bin\Debug\net8.0\ErrorHandling.runtimeconfig.json
+C:\Users\Max\Documents\Chas Academy\ErrorHandling\ErrorHandling\bin\Debug\net8.0\ErrorHandling.dll
+C:\Users\Max\Documents\Chas Academy\ErrorHandling\ErrorHandling\bin\Debug\net8.0\ErrorHandling.pdb
+C:\Users\Max\Documents\Chas Academy\ErrorHandling\ErrorHandling\obj\Debug\net8.0\ErrorHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Documents\Chas Academy\ErrorHandling\ErrorHandling\obj\Debug\net8.0\ErrorHandling.AssemblyInfoInputs.cache
+C:\Users\Max\Documents\Chas Academy\ErrorHandling\ErrorHandling\obj\Debug\net8.0\ErrorHandling.AssemblyInfo.cs
+C:\Users\Max\Documents\Chas Academy\ErrorHandling\ErrorHandling\obj\Debug\net8.0\ErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\Max\Documents\Chas Academy\ErrorHandling\ErrorHandling\obj\Debug\net8.0\ErrorHandling.dll
+C:\Users\Max\Documents\Chas Academy\ErrorHandling\ErrorHandling\obj\Debug\net8.0\refint\ErrorHandling.dll
+C:\Users\Max\Documents\Chas Academy\ErrorHandling\ErrorHandling\obj\Debug\net8.0\ErrorHandling.pdb
+C:\Users\Max\Documents\Chas Academy\ErrorHandling\ErrorHandling\obj\Debug\net8.0\ErrorHandling.genruntimeconfig.cache
+C:\Users\Max\Documents\Chas Academy\ErrorHandling\ErrorHandling\obj\Debug\net8.0\ref\ErrorHandling.dll
